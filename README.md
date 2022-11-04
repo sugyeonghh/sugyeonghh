@@ -21,6 +21,4 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sugyeong_hh)](https://solved.ac/sugyeong_hh)
 
-
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sugyeonghh)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sugyeonghh)](https://velog-readme-stats.vercel.app/api/redirect?name=sugyeonghh&tag=github)
