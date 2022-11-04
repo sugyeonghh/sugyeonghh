@@ -11,8 +11,7 @@
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sugyeong_hh)](https://solved.ac/sugyeong_hh)
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sugyeonghh)](https://velog-readme-stats.vercel.app/api/redirect?name=sugyeonghh&tag=github)
-
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sugyeonghh&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=sugyeonghh&tag=github)
 
   
 </div>
